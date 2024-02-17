@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.110.127.202:8081/repository/mavenwebapp/</url>
+	      <url>http://43.205.116.241:8081/repository/mavenwebapp/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
