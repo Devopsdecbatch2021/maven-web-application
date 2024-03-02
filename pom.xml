@@ -141,7 +141,7 @@
           <useChildFirstClassLoader>false</useChildFirstClassLoader>
           <requiredForLanguages>java,scala,jsp,clojure,kotlin</requiredForLanguages>
         </configuration>
-      </plugin> -->
+      </plugin>
 			<plugin>
             			<groupId>org.apache.maven.plugins</groupId>
             			<artifactId>maven-surefire-plugin</artifactId>
@@ -170,7 +170,7 @@
 				</configuration>
 			</plugin>
 			
-</plugins>
+</plugins> -->
 	</build>
 	
 	
